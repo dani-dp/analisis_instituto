@@ -1,6 +1,8 @@
 # Pipeline ETL y Análisis Académico con PowerBI
 
 ![Dashboard Académico](https://i.imgur.com/38okuRU.jpeg) 
+![Dashboard Académico](https://i.imgur.com/hbgg9qo.png) 
+![Dashboard Académico](https://i.imgur.com/8sQprEw.png) 
 
 ## Descripción del Proyecto
 Este proyecto es una demostración de un pipeline **ETL (Extract, Transform, Load)** completo. El objetivo es conectar con una base de datos MySQL local (`db_colegio`), extraer los datos brutos, aplicar un proceso de limpieza y transformación robusto con **Python (Pandas)**, y cargar los datos limpios en ficheros CSV listos para ser consumidos por una herramienta de Business Intelligence como **Power BI**.
