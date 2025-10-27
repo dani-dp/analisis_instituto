@@ -1,0 +1,39 @@
+# ==== ENTORNO VIRTUAL ====
+.venv/
+venv/
+env/
+
+# ==== ARCHIVOS DE CONFIGURACIÓN PRIVADOS ====
+.env
+*.key
+*.pem
+
+# ==== DATOS Y ARCHIVOS TEMPORALES ====
+*.csv
+*.xlsx
+*.xls
+*.json
+*.tmp
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+.DS_Store
+
+# ==== ARCHIVOS DE BACKUP ====
+*.bak
+*.old
+*.orig
+*.swp
+
+# ==== CONFIGURACIÓN DE IDE ====
+.vscode/
+.idea/
+
+# ==== CARPETAS DE SALIDA ====
+dist/
+build/
+output/
